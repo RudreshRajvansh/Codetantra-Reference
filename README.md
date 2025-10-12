@@ -1,7 +1,7 @@
 # 💻 CodeTantra Reference
 
-Hello there!  
-I'm contributing to help fellow C learners who use **CodeTantra** to solve programming challenges.
+Hello there! 👋
+I’m sharing solutions to help fellow C learners using CodeTantra tackle programming challenges.
 
 ---
 
